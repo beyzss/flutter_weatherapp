@@ -1,6 +1,6 @@
 # hava_durumu
 
-A new Flutter project.
+A Flutter application that retrieves weather data using a public API and displays real-time weather updates based on the user's current location. The app uses the Dio library for API requests and demonstrates how to obtain the user's city and coordinates. A great project for learning Flutter development, API integration, and geolocation services.
 
 ## Getting Started
 
